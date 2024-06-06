@@ -11,8 +11,7 @@ npm install koa
 ### Configuração do banco de dados e autenticação de e-mail
 2. Configure o banco de dados, siga estas etapas:
 
-Crie um arquivo .env no diretório do projeto.
-Adicione as seguintes linhas ao arquivo .env:
+Crie um arquivo .env no diretório do projeto e adicione as seguintes linhas ao arquivo .env:
 ```bash
 DATABASE_URL="url-do-seu-banco-de-dados"
 EMAIL_USER=your-email@gmail.com
